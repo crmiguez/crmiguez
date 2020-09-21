@@ -3,14 +3,21 @@
 <!--
 **crmiguez/crmiguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi everyone! I am Candida Rodriguez (crmiguez) from Ourense, Galicia, Spain. I am a web developer, postgraduated engineering student, and programmer. My interests range from technology to programming. I am also interested in design, entrepreneurship, and reading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on my Final Project at last year of CS Engineering Master. 🌱 I am also currently learning AngularJS and Python.
+
+My great experiece in 2020-2021: #ODSCEurope
+
+📫 How to reach me: 
+
+Contact: https://crmiguez.wordpress.com/contacto/
+Medium profile: https://medium.com/@crmiguez
+
+😄 Pronouns: she/her, ze
+
+💬 Ask me about latest projects and ideas
+
+🤔 I’m looking for help with either local, national and international projects
+
+⚡ Fun fact: The Power Of Attitude :wink:
