@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**crmiguez/crmiguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi everyone! I am Candida Rodriguez (crmiguez) from Ourense, Galicia, Spain. I am a web developer, postgraduated engineering student, and programmer. My interests range from technology to programming. I am also interested in design, entrepreneurship, and reading.
 
 🔭 I’m currently working on my Final Project at last year of CS Engineering Master. 🌱 I am also currently learning AngularJS and Python.
@@ -21,3 +18,4 @@ Medium profile: https://medium.com/@crmiguez
 🤔 I’m looking for help with either local, national and international projects
 
 ⚡ Fun fact: The Power Of Attitude :wink:
+
