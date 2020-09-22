@@ -11,7 +11,7 @@ My great experiece in 2020-2021: #ODSCEurope
 Contact: https://crmiguez.wordpress.com/contacto/
 Medium profile: https://medium.com/@crmiguez
 
-😄 Pronouns: she/her, ze
+😄 Pronouns: she/her, ze/hir
 
 💬 Ask me about latest projects and ideas
 
