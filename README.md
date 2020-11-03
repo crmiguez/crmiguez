@@ -4,7 +4,7 @@ Hi everyone! I am Candida Rodriguez (crmiguez) from Ourense, Galicia, Spain. I a
 
 🔭 I’m currently working on my Final Project at last year of CS Engineering Master. 🌱 I am also currently learning AngularJS and Python.
 
-My great experiece in 2020-2021: #ODSCEurope #WeLoveDevelopersOracleSummit
+My great experiece in 2020-2021: #ODSCEurope #WeLoveDevelopersOracleSummit #DevFestSpain2020 #SPOUG20
 
 📫 How to reach me: 
 
