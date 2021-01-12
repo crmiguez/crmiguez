@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi everyone! I am Candida Rodriguez (crmiguez) from Ourense, Galicia, Spain. I am a web developer, business developer, postgraduated engineering student, and programmer. My interests range from technology to programming. I am also interested in design, entrepreneurship, and reading.
+Hi everyone! I am Candida Rodriguez (@crmiguez) from Ourense, Galicia, Spain. I am a web developer, business developer, postgraduated engineering student, and programmer. My interests range from technology to programming. I am also interested in design, entrepreneurship, and reading.
 
 🔭 I’m currently working on my Final Project at last year of CS Engineering Master. 🌱 I am also currently learning Angular, AngularJS and Python.
 
