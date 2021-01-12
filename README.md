@@ -4,12 +4,13 @@ Hi everyone! I am Candida Rodriguez (crmiguez) from Ourense, Galicia, Spain. I a
 
 🔭 I’m currently working on my Final Project at last year of CS Engineering Master. 🌱 I am also currently learning Angular, AngularJS and Python.
 
-My great experiece in 2020-2021: #ODSCEurope #WeLoveDevelopersOracleSummit #DevFestSpain2020 #SPOUG20 #WeAreDevelopersWeek #SpainAI
+My great experiece in 2020-2021: #ODSCEurope #WeLoveDevelopersOracleSummit #DevFestSpain2020 #SPOUG20 #WeAreDevelopersWeek #ODSCAPAC #SpainAI
 
 📫 How to reach me: 
 
 Contact: https://crmiguez.wordpress.com/contacto/
 Medium profile: https://medium.com/@crmiguez
+LinkedIn profile: https://www.linkedin.com/in/c%C3%A1ndida-rodr%C3%ADguez-m%C3%ADguez-b7a4731bb
 
 😄 Pronouns: she/her, ze/hir
 
