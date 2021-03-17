@@ -2,7 +2,7 @@
 
 Hi everyone! I am Candida Rodriguez (@crmiguez) from Ourense, Galicia, Spain. I am a web developer, business developer, programmer and CS Engineer in Software Developer. My interests range from technology to programming. I am also interested in design, entrepreneurship, and reading.
 
-🔭 I’m currently as a Junior Developer at Indra. 🌱 I am also currently learning Angular, AngularJS and Python.
+🔭 I’m currently as a Junior Software Engineer at Indra. 🌱 I am also currently learning Angular, AngularJS and Python.
 
 My great experiece in 2020-2021: #ODSCEurope #WeLoveDevelopersOracleSummit #DevFestSpain2020 #SPOUG20 #WeAreDevelopersWeek #ODSCAPAC #GaliciaAI #SpainAI
 
