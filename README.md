@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi everyone! I am Candida Rodriguez (@crmiguez) from Ourense, Galicia, Spain. I am a web developer, business developer, programmer and CS Engineer in Software Developer. My interests range from technology to programming. I am also interested in design, entrepreneurship, and reading.
+Hi everyone! I am Candida Rodriguez (@crmiguez) from Ourense, Galicia, Spain. I am a web developer, business developer, programmer and CS Engineer in Complex Software Developing branch from University of Vigo. My interests range from technology, programming to engineering. I am also interested in design, entrepreneurship, and reading.
 
 🔭 I’m currently as a Junior Software Engineer at Indra. 🌱 I am also currently learning Angular, AngularJS and Python.
 
@@ -14,9 +14,9 @@ LinkedIn profile: https://www.linkedin.com/in/c%C3%A1ndida-rodr%C3%ADguez-m%C3%A
 
 😄 Pronouns: she/her, ze/hir
 
-💬 Ask me about latest projects and ideas
+💬 Ask me about latest projects, ideas, challenge... and Wizarding World! :smile:
 
 🤔 I’m looking for help with either local, national and international projects
 
-⚡ Fun fact: The Power Of Attitude and Done-titude :wink:
+⚡ Fun fact: The Power Of Attitude and Done-titude :wink: :wink:
 
