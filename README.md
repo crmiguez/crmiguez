@@ -18,5 +18,7 @@ LinkedIn profile: https://www.linkedin.com/in/c%C3%A1ndida-rodr%C3%ADguez-m%C3%A
 
 🤔 I’m looking for help with either local, national and international projects
 
-⚡ Fun fact: The Power Of Attitude and Done-titude :wink: :wink:
+⚡ Fun fact:
+(2021) The value of empowerment 🍀
+(2020) The Power Of Attitude and Done-titude :wink: :wink:
 
