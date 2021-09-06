@@ -4,7 +4,7 @@ Hi everyone! I am Candida Rodriguez (@crmiguez) from Ourense, Galicia, Spain. I 
 
 🔭 I’m currently as a Junior Software Engineer at Indra. 🌱 I am also currently learning Angular, TypeScript and Python.
 
-My great experiences in 2021-2022: #GaliciaAI #ODSCAPAC2021 
+My great experiences in 2021-2022: #GaliciaAI #Spain AI #ODSCAPAC2021 
 
 📫 How to reach me: 
 
