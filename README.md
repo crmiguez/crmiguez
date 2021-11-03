@@ -4,13 +4,13 @@ Hi everyone! I am Candida Rodriguez (@crmiguez) from Ourense, Galicia, Spain. I 
 
 🔭 I’m currently open to work. 🌱 I am also currently learning Angular, TypeScript, Python, Flutter and Elixir.
 
-My great experiences in 2021-2022: #GaliciaAI #Spain AI #SubsurfaceDremioSumer21 #ODSCAPAC2021 
+My great experiences in 2021-2022: #GaliciaAI #Spain AI #SubsurfaceDremioSumer21 #ODSCAPAC2021 #WADLive
 
 📫 How to reach me: 
 
 Contact: https://crmiguez.wordpress.com/contacto/
 Medium profile: https://medium.com/@crmiguez
-LinkedIn profile: https://www.linkedin.com/in/c%C3%A1ndida-rodr%C3%ADguez-m%C3%ADguez-b7a4731bb
+LinkedIn profile: https://www.linkedin.com/in/cándida-rodríguez-míguez-b7a4731bb
 
 😄 Pronouns: she/her, ze/hir
 
