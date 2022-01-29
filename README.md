@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi everyone! I am Candida Rodriguez (@crmiguez) from Ourense, Galicia, Spain. I am a current CS Engineer in Complex Software Developing branch, from University of Vigo, and a web developer, business developer and programmer for 10 years. My interests range from technology, programming to engineering. I am also interested in design, entrepreneurship, and reading.
+Hi everyone! I am Candida Rodriguez (@crmiguez) from Ourense, Galicia, Spain. CS Engineer in Complex Software Developing branch, from University of Vigo, and a web developer, business developer and programmer for 10 years. My interests range from technology, programming to engineering. I am also interested in design, entrepreneurship, and reading.
 
-🔭 I’m currently open to work. 🌱 I am also currently learning Angular, TypeScript, Python, Flutter and Elixir.
+🔭 I’m currently in Junior Application Developer at Getronics. 🌱 I am also currently learning Angular, TypeScript, Python, Flutter and Elixir.
 
 My great experiences in 2021-2022: #GaliciaAI #Spain AI #SubsurfaceDremioSumer21 #ODSCAPAC2021 #WADLive
 
