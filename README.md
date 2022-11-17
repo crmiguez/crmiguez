@@ -12,7 +12,7 @@ Contact: https://crmiguez.wordpress.com/contacto/
 Medium profile: https://medium.com/@crmiguez
 LinkedIn profile: https://www.linkedin.com/in/cándida-rodríguez-míguez-b7a4731bb
 
-😄 Pronouns: she/her, ze/hir
+😄 Pronouns: she/her, they/them
 
 💬 Ask me about latest projects, ideas, challenges... and Wizarding World! :smile:
 
