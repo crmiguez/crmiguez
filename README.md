@@ -19,6 +19,8 @@ LinkedIn profile: https://www.linkedin.com/in/cándida-rodríguez-míguez-b7a473
 🤔 I’m looking for help with either local, national and international projects
 
 ⚡ Fun fact:
+(2023-2024) Self-love, kidness and family 💝
+
 (2022) Just Let It Flow, Being Yourself 🏊‍♀️ 💖... and Tolerate 🌝
 
 (2021) The Great Value of Empowerment 🍀
