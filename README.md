@@ -4,7 +4,7 @@ Hi everyone! I am Candida Rodriguez (@crmiguez) from Ourense, Galicia, Spain. CS
 
 🔭 I’m currently in Junior Application Developer at Getronics. 🌱 I am also currently learning Angular, TypeScript, Python, Flutter, Elixir, Go and Clojure.
 
-My great experiences in 2021-2022: #GaliciaAI #Spain AI #SubsurfaceDremioSummer21 #ODSCAPAC2021 #WADLive #SubsurfaceDremioWinter22
+My great experiences in 2022-2023: #GaliciaAI #Spain AI #SubsurfaceDremio #MLEvents 
 
 📫 How to reach me: 
 
