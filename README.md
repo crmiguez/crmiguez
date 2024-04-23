@@ -19,8 +19,6 @@ LinkedIn profile: https://www.linkedin.com/in/cándida-rodríguez-míguez-b7a473
 
 ⚡ Fun fact:
 
-(2027) "The State OF Art"/"O Estado Da Arte" Podcast 🎙️ Knowledge, wisdom and curiosities of Growth World 
-
 (2023-2024) Self-love, kindness, surrounding positive people/moments, family and open-minded 💝 Mentor skills
 
 (2022) Just Let It Flow, Being Yourself 🏊‍♀️ 💖... and Tolerate 🌝
