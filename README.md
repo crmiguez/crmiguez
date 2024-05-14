@@ -4,7 +4,7 @@ Hi everyone! I am Candida Rodriguez (@crmiguez) from Ourense, Galicia, Spain. CS
 
 🔭 I’m currently in Application Developer at Getronics. 🌱 I am also currently learning Angular, TypeScript, Python, jQuery, Flutter, Elixir, Go and Clojure.
 
-My great experiences in 2023-2024: #GaliciaAIFinale #WpOurense #SeminarioEmprendimientoSaludMadrid #GoogleHealthAI #ODSCEastBoston
+My great experiences in 2023-2024: #GaliciaAIFinale #WpOurense #SeminarioEmprendimientoSaludMadrid #GoogleHealthAI #ODSCEastBoston #Dremio #IcebergSummit
 
 📫 How to reach me: 
 
