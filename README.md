@@ -9,7 +9,7 @@ My great experiences in 2024-2025: #WpOurense #SeminarioEmprendimientoSaludMadri
 📫 How to reach me: 
 
 Contact: https://crmiguez.wordpress.com/contacto/
-LinkedIn profile: https://www.linkedin.com/in/cándida-rodríguez-míguez-b7a4731bb
+LinkedIn profile: https://www.linkedin.com/in/candida-rodriguez-crmiguez-b7a4731bb/
 Dev Community: https://dev.to/crmiguez
 
 😄 Pronouns: she/her, they/them
