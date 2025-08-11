@@ -4,7 +4,7 @@ Hi everyone! I am Candida R Miguez (@crmiguez) from Ourense, Galicia, Spain. CS 
 
 🔭 I’m currently in Mid-Senior Full-Stack Programmer. 🌱 I am also currently learning Angular, TypeScript, JavaScript, Python, jQuery, Flutter, Elixir, Phoenix, Go, Clojure and Markdown
 
-My great experiences in 2024-2025: #WpOurense #GoogleHealthAI #ODSCEastBoston #Dremio #IcebergSummit #HackSTEM #WeAreDevelopers #Web&AIDay #EscolaXornalismo
+My great experiences in 2024-2025: #WpOurense #GoogleHealthAI #ODSCEastBoston #Dremio #IcebergSummit #HackSTEM #WeAreDevelopers #Web&AIDay #EscolaXornalismoGalicia #OficcialCPUTSTEMZATeam
 
 📫 How to reach me: 
 
