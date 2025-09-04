@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi everyone! I am Candida R Miguez (@crmiguez) from Ourense, Galicia, Spain. CS Engineer in Complex Software Developing branch, from University of Vigo, and a web developer, business developer and programmer for 15 years. My interests range from technology, programming to engineering. I am also interested in design, entrepreneurship, and reading.
+Hi everyone! I am Candida R Miguez (@crmiguez) from Ourense, Galicia, Spain. CS Engineer in Complex Software Developing branch, from University of Vigo, and a web developer, business developer and programmer for 15 years. My interests range from technology, programming to engineering. I am also interested in design, robotics, drones, metaverse, entrepreneurship, and reading.
 
 🔭 I’m currently Software Engineer position. 🌱 I am also currently learning Angular, TypeScript, JavaScript, Python, jQuery, Flutter, Elixir, Phoenix, Go, Clojure and Markdown
 
