@@ -4,7 +4,7 @@ Hi everyone! I am Candida R Miguez (@crmiguez) from Ourense, Galicia, Spain. CS 
 
 🔭 I’m currently Software Engineer position. 🌱 I am also currently learning Angular, TypeScript, JavaScript, Python, jQuery, Flutter, Elixir, Phoenix, Go, Clojure and Markdown
 
-My great experiences in 2025-2026: #Dremio #IcebergSummit #HackSTEM #WeAreDevelopers #Web&AIDay #CursoDivulgacionyCPCMexCuriosamente #EscolaXornalismoGalicia #OfficialINPUTSTEAMTEAMZAF
+My great experiences in 2025-2026: #Dremio #IcebergSummit #HackSTEM #WeAreDevelopers #Web&AIDay #CursoDivulgacionyCPCMexCuriosamente #EscolaXornalismoGalicia #OfficialTEAMINPUTSTEAMTZAF
 
 📫 How to reach me: 
 
