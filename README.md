@@ -19,7 +19,8 @@ Dev Community: https://dev.to/crmiguez
 🤔 I’m looking for help with either local, national and international projects
 
 ⚡ Fun fact:
-(2025-2026) Let them go and live your life 💙
+
+(2025-2030) Let them go and live your life! 💙
 
 (2025) A new beginning and next level 😉
 
