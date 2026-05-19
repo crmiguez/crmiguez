@@ -10,7 +10,7 @@ My great experiences in 2025-2026: #Dremio #SubsurfaceSummit #IcebergSummit #Hac
 
 Contact: https://crmiguez.wordpress.com/contacto/
 LinkedIn profile: https://www.linkedin.com/in/candida-rodriguez-crmiguez-b7a4731bb/
-Dev Community: https://dev.to/crmiguez
+Linktree page: https://linktr.ee/crmiguez
 
 😄 Pronouns: she/her, they/them
 
