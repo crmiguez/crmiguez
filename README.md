@@ -8,7 +8,7 @@ My great experiences in 2025-2026: #Dremio #SubsurfaceSummit #IcebergSummit #Hac
 
 📫 How to reach me: 
 
-Contact: https://crmiguez.wordpress.com/contacto/
+Contact: crmiguez.ai.dev@gmail.com
 LinkedIn profile: https://www.linkedin.com/in/candida-rodriguez-crmiguez-b7a4731bb/
 Linktree page: https://linktr.ee/crmiguez
 
