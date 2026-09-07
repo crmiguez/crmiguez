@@ -4,7 +4,7 @@ Hi everyone! I am Candida R Miguez (@crmiguez) from Ourense, Galicia, Spain. CS 
 
 🔭 I’m currently in AI/DL training certificate. 🌱 I am also currently learning Angular, TypeScript, JavaScript, Python, jQuery, Flutter, Elixir, Phoenix, F#, Go, Clojure and Markdown
 
-My great experiences in 2025-2026: #Dremio #SubsurfaceSummit #IcebergSummit #HackSTEM #WeAreDevelopers #Web&AIDay #CursoDivulgacionyCPCMexCuriosamente #EscolaXornalismoGalicia #OfficialTEAMINPUTSTEAMZAF #CiberGalTecnopole
+My great experiences in 2026-2027: #Dremio #SubsurfaceSummit #HackSTEM #WeAreDevelopers #OsCronoNautasGalega #EnterpriseAI #AESIA #Drones
 
 📫 How to reach me: 
 
