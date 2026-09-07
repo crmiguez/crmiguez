@@ -2,7 +2,7 @@
 
 Hi everyone! I am Candida R Miguez (@crmiguez) from Ourense, Galicia, Spain. CS Engineer in Complex Software Developing branch, from University of Vigo, and a web developer, business developer and programmer for 15 years. My interests range from technology, programming to engineering. I am also interested in design, robotics, drones, metaverse, entrepreneurship, and reading.
 
-🔭 I’m currently in AI/DL training certificate. 🌱 I am also currently learning Angular, TypeScript, JavaScript, Python, jQuery, Flutter, Elixir, Phoenix, F#, Go, Clojure and Markdown
+🔭 I’m currently in new AI opportunities. 🌱 I am also currently learning Angular, TypeScript, JavaScript, Python, jQuery, Flutter, Elixir, Phoenix, F#, Go, Clojure, Markdown and Agentic AI
 
 My great experiences in 2026-2027: #Dremio #SubsurfaceSummit #HackSTEM #WeAreDevelopers #OsCronoNautasGalega #EnterpriseAI #AESIA #Drones
 
