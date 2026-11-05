@@ -9,7 +9,7 @@ My great experiences in 2026-2027: #Dremio #SubsurfaceSummit #HackSTEM #WeAreDev
 📫 How to reach me: 
 
 Contact: crmiguez.ai.dev@gmail.com
-LinkedIn profile: https://www.linkedin.com/in/candida-rodriguez-crmiguez-b7a4731bb/
+Reddit profile: https://reddit.com/crmiguez
 Linktree page: https://linktr.ee/crmiguez
 
 😄 Pronouns: she/her, they/them
